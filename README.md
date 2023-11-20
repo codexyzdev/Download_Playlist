@@ -8,7 +8,7 @@ Esta aplicación en Python te permite descargar listas de reproducción de YouTu
 
 ## Estructura del Proyecto:
 
-- `main.py`: Script principal que ejecuta la aplicación con una interfaz gráfica.
+- `Download_Playlist.py`: Script principal que ejecuta la aplicación con una interfaz gráfica.
 - `requirements.txt`: Archivo que lista las dependencias del proyecto.
 - `.gitignore`: Configuración para ignorar archivos y directorios específicos al usar Git.
 
@@ -44,7 +44,7 @@ Esta aplicación en Python te permite descargar listas de reproducción de YouTu
 5. Ejecuta la aplicación:
 
     ```bash
-    python main.py
+    python Download_Playlist.py
     ```
 
 Se abrirá una ventana con la interfaz gráfica de la aplicación. Ingresa la URL de la lista de reproducción de YouTube en el campo correspondiente, selecciona la carpeta de destino y haz clic en "Descargar MP3" para iniciar el proceso de descarga.
